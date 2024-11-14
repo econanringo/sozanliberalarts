@@ -47,7 +47,7 @@ export default function CalendarApp() {
   if (loading) {
     return (
       <><Helmet>
-        <title>ホーム | Sozan Liberal Arts</title>
+        <title>カレンダー | Sozan Liberal Arts</title>
       </Helmet><div className="flex items-center justify-center ">
           <div role="status">
             <svg
