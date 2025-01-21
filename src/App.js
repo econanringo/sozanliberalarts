@@ -9,6 +9,7 @@ import News from './pages/News';
 import NewsDetail from './pages/NewsDetail';
 import Events from './pages/Events';
 import PageNotFound from './pages/PageNotFound';
+import Timer from './pages/Timer';
 import 'flowbite';
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
             <Route path="/news" element={<News />} />
             <Route path="/news/:id" element={<NewsDetail />} />
             <Route path="/events" element={<Events />} />
+            <Route path="/timer" element={<Timer />} />
             <Route path="*" element={<PageNotFound />} />
           </Routes>
         </main>
