@@ -124,7 +124,7 @@ const Home = () => (
                                     </div>
                                     科学はもちろん、ゲーム・アニメ作成から社会学まで、自分の好きなことを発表することができます
                                 </dt>
-                                <dd class="mt-2 text-base/7 text-gray-600">今までの発表の内容が気になる場合は、<u><a href="https://libet.onrender.com" className="text-blue-700">Libet</a></u>をご覧ください。</dd>
+                                <dd class="mt-2 text-base/7 text-gray-600">今までの発表の内容が気になる場合は、<u><a href="https://sozanliberalarts-libet-20th.vercel.app/ " className="text-blue-700">Libet</a></u>をご覧ください。</dd>
                             </div>
                         </dl>
                     </div>
